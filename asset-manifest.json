@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VikasGari/vikasgari.github.io/static/css/main.dd42ce32.css",
+    "main.js": "/VikasGari/vikasgari.github.io/static/js/main.d979ec34.js",
+    "index.html": "/VikasGari/vikasgari.github.io/index.html",
+    "main.dd42ce32.css.map": "/VikasGari/vikasgari.github.io/static/css/main.dd42ce32.css.map",
+    "main.d979ec34.js.map": "/VikasGari/vikasgari.github.io/static/js/main.d979ec34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd42ce32.css",
+    "static/js/main.d979ec34.js"
+  ]
+}
